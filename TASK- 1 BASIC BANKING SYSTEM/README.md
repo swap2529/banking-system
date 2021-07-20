@@ -12,3 +12,4 @@ The Basic Banking System website function is to transfer money from one account 
 ***Backend: PHP***
 ***Database: MySQL***
       
+video url -https://www.linkedin.com/feed/update/urn:li:activity:6823353689676279808/
